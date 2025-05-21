@@ -15,3 +15,8 @@ git clone https://github.com/slambrick/SHeM-diffraction-analysis.git
 `sample1a_lattice_constant.ipynb` calculates the lattice constant of the pristine monolayer and produces plots to demonstrate the procedure.
 
 `samples1a_3_figures.ipynb` creates two 2D plots of the reciprocal lattice for a high defect sample and a 'pristine' sample.
+
+## Additional uses of data
+
+Some of the data and analysis in this repository is also used in another publication: "Helium atom micro-diffraction as a
+characterization tool for 2D materials". Specifically `samples1a_3_figures.ipynb` creates the 2D plot with identified lattice positions for figure 4. A [preprint of this manuscript may be found on arXiv](https://doi.org/10.48550/arXiv.2409.20461).
