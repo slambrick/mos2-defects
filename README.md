@@ -40,3 +40,7 @@ The diffraction amplitudes resulting from the MultiScat simulation, which are di
 ## Raw data
 
 Raw data used in the various scripts to produce the figures is in the `data` folder. In general SHeM data is stored in `.mat` files.
+
+## Processed data
+
+Three `.csv` files contain processed data, two have the diffraction intensity as a function of defect rate for the two different temperatures measured (`intensity_with_defext_120C.csv` and `intensity_with_defext_200C.csv`). The third contains the scan on SiO2 used for the data normalisation: `sio_background.csv`.
