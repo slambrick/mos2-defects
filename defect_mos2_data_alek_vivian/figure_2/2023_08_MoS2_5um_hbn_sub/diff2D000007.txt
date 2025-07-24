@@ -1,0 +1,46 @@
+Metadata for 2D SHeM diffraction pattern
+,==========
+Centre of rotation: -3305200  -618100
+m1: 0.989760
+m2: -0.007357
+Example position (nm): -3445000   281000 -1000000
+==========
+List of z scans:
+File name,alpha(deg)
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,45.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,47.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,50.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,52.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,55.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,57.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,60.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,62.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,65.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,67.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,70.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,72.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,75.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,77.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,80.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,82.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,85.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,87.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,90.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,92.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,95.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,97.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,100.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,102.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,105.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,107.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,110.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,112.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,115.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,117.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,120.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,122.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,125.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,127.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,130.000000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,132.500000
+/icon/data/2023_08_MoS2_5um_hbn_sub/Z002206.mat,135.000000
