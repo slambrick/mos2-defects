@@ -1,6 +1,6 @@
 # mos2-defects
 
-Data and analysis in support of "Defect density quantification in monolayer MoS2 using helium atom micro-diffraction" by A Radic, NA von Jeinsen, K Wang, Y Zhu, I Sami, V Perez, DJ Ward, AP Jardine, M Chhowalla, SM Lambrick.
+Data and analysis in support of "Defect density quantification in monolayer MoS2 using helium atom micro-diffraction" by A Radic, NA von Jeinsen, V Perez, K Wang, M Lin, B Liu, Y Zhu, I Sami, KWatanabe, TTaniguchi, DJ Ward, AP Jardine, A Rao, M Chhowalla, SM Lambrick.
 
 A pre-print of the manuscript can be found at arXiv: [https://doi.org/10.48550/arXiv.2409.18637](https://doi.org/10.48550/arXiv.2409.18637). 
 
@@ -12,15 +12,13 @@ git clone https://github.com/slambrick/SHeM-diffraction-analysis.git
 
 ## Scripts
 
-`sample1a_lattice_constant.ipynb` calculates the lattice constant of the pristine monolayer and produces plots to demonstrate the procedure. The data is plotted in figure S1 of the manuscript.
+`sample1a_lattice_constant.ipynb` calculates the lattice constant of the pristine monolayer and produces plots to demonstrate the procedure. The data is plotted in figure S1 of the supplementary information.
 
-`samples1a_3_figures.ipynb` creates two 2D plots of the reciprocal lattice for a high defect sample and a 'pristine' sample. These are plotted in both figure 1 (small) and 3 (full sized).
+`samples1a_3_figures.ipynb` creates two 2D plots of the reciprocal lattice for a high defect sample and a 'pristine' sample. These are plotted in figure 2 of the main text.
 
-`Defect_rate_comparison.ipynp` analyses the diffraction intensity of the samples with different defect density. It results in plots of the diffraction intensity as a function of the defect rate at 2 different samples.
+`Defect_rate_comparison_samples_2-3-1a-4b.ipynb` analyses the diffraction intensity of the samples with different defect density. It results in plots of the diffraction intensity as a function of the defect rate at 2 different samples.
 
-`substrate_comparison.ipynb` compares "z-scans" from the substrate, from bulk MoS2 and monolayer MoS2 on two different substrates (directly on SiO2 or on hBN-on-SiO2).
-
-`plot_fits.ipynb` plots the fits to the lattice gas model used to generate  figures S3, S4 and 4.
+`plot_fits.ipynb` plots the fits to the lattice gas model used to generate figures S2, S3 of the supplementary information and figure 3 of the main text.
 
 ## Additional uses of data
 
@@ -31,11 +29,11 @@ characterization tool for 2D materials". Specifically `samples1a_3_figures.ipynb
 
 The directory "figure_2" contains the SHeM and optical images used for figure 2. Optical is provided as a `.png` file. The SHeM image is provided in a number of formats, first the `.png`, as well as the raw data as `.mat` and `.txt` files. Plus a [Gwyddion](https://gwyddion.net/) file for easy image processing.
 
-## Supplementary information figures
+## Appendix figures
 
-The input potential files for [MultiScat](https://github.com/Cambridge-Atom-Scattering-Centre/Multiscat) ([Method](https://doi.org/10.1039/FT9908601641)) representing the potential used to generate the results in figure 6, and displayed in figure 5 is given in the "figure_S5" folder. 
+The input potential files for [MultiScat](https://github.com/Cambridge-Atom-Scattering-Centre/Multiscat) ([Method](https://doi.org/10.1039/FT9908601641)) representing the potential used to generate the results in figure A2, and displayed in figure A1 is given in the "figure_A1" folder. 
 
-The diffraction amplitudes resulting from the MultiScat simulation, which are displayed in figure S6 are in the "figure_S6" folder.
+The diffraction amplitudes resulting from the MultiScat simulation, which are displayed in figure A2 are in the "figure_A2" folder.
 
 ## Raw data
 
