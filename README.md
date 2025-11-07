@@ -1,6 +1,6 @@
 # mos2-defects
 
-Data and analysis in support of "Defect density quantification in monolayer MoS2 using helium atom micro-diffraction" by A Radic, NA von Jeinsen, V Perez, K Wang, M Lin, B Liu, Y Zhu, I Sami, KWatanabe, TTaniguchi, DJ Ward, AP Jardine, A Rao, M Chhowalla, SM Lambrick.
+Data and analysis in support of "Measuring vacancy-type defect density in monolayer semiconductors" by A Radic, NA von Jeinsen, V Perez, K Wang, M Lin, B Liu, Y Zhu, I Sami, K Watanabe, T Taniguchi, DJ Ward, AP Jardine, A Rao, M Chhowalla, SM Lambrick.
 
 A pre-print of the manuscript can be found at arXiv: [https://doi.org/10.48550/arXiv.2409.18637](https://doi.org/10.48550/arXiv.2409.18637). 
 
@@ -12,13 +12,12 @@ git clone https://github.com/slambrick/SHeM-diffraction-analysis.git
 
 ## Scripts
 
-`sample1a_lattice_constant.ipynb` calculates the lattice constant of the pristine monolayer and produces plots to demonstrate the procedure. The data is plotted in figure S1 of the supplementary information.
+The data processing and analysis, plus plotting of figures is contained in the following jupyter notebooks:
 
-`samples1a_3_figures.ipynb` creates two 2D plots of the reciprocal lattice for a high defect sample and a 'pristine' sample. These are plotted in figure 2 of the main text.
-
-`Defect_rate_comparison_samples_2-3-1a-4b.ipynb` analyses the diffraction intensity of the samples with different defect density. It results in plots of the diffraction intensity as a function of the defect rate at 2 different samples.
-
-`plot_fits.ipynb` plots the fits to the lattice gas model used to generate figures S2, S3 of the supplementary information and figure 3 of the main text.
+ - `sample1a_lattice_constant.ipynb` calculates the lattice constant of the pristine monolayer and produces plots to demonstrate the procedure. The data is plotted in figure S1 of the supplementary information.
+ - `samples1a_3_figures.ipynb` creates two 2D plots of the reciprocal lattice for a high defect sample and a 'pristine' sample. These are plotted in figure 2 of the main text.
+ - `Defect_rate_comparison_samples_2-3-1a-4b.ipynb` analyses the diffraction intensity of the samples with different defect density. It results in plots of the diffraction intensity as a function of the defect rate at 2 different samples.
+ - `plot_fits.ipynb` plots the fits to the lattice gas model used to generate figures S2, S3 of the supplementary information and figure 3 of the main text.
 
 ## Additional uses of data
 
